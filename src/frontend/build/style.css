@@ -1,0 +1,23 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(48, 6, 61);
+  }
+body {
+    background-color: rgb(212, 146, 178);
+    justify-content: center;
+    align-items: center;
+    border: 10px solid rgb(16, 4, 40);
+    margin: 40px;
+    min-height: 80vh;
+    border-radius: 5px;
+    box-shadow: 0 8px 32px 0 coral;
+  }
+  #element{
+    font-weight: 900;
+
+  }
+  #cast{
+    color: crimson;
+  }
+  
